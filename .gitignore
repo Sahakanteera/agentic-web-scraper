@@ -12,8 +12,6 @@ venv/
 # Environment
 .env
 
-# Data Output
-data/
 
 # Driver logs
 geckodriver.log
