@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+/env/
+venv/
+.ipynb_checkpoints/
+.vscode/
+
+# Environment
+.env
+
+# Data Output
+data/
+
+# Driver logs
+geckodriver.log
+chromedriver.log
